@@ -1,5 +1,4 @@
-@@ -0,0 +1,21 @@
-Licencia MIT
+# Licencia MIT
 
 Derechos de autor (c) 2024 Caveli
 
